@@ -1,3 +1,12 @@
+- Resource|Extraction|Coal:
+    description: Annual extraction of coal
+    unit: EJ/yr
+- Resource|Extraction|Gas:
+    description: Annual extraction of fossil gas
+    unit: EJ/yr
+- Resource|Extraction|Oil:
+    description: Annual extraction of crude oil
+    unit: EJ/yr
 - Capacity Additions|Electricity|Biomass:
     description: 'Capacity additions of all biomass power plants (yearly average additions
       between previos and current model time step) '
