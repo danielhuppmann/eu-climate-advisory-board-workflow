@@ -1,0 +1,179 @@
+- AIM/CGE 2.1:
+    - CD-LINKS*:
+        source: CD-LINKS (via AR6) (Horizon 2020)
+        reference: McCollum et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0179-z
+- AIM/CGE 2.2:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- ALADIN 1.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- COFFEE 1.1:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- E4SMA-EU-TIMES 1.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- EnergyVille TIMES BE 1.0.0:
+    - Net-Zero_*:
+        source: pending
+        reference: pending
+        doi:
+- FORECAST v1.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- GCAM 5.3+ NGFS:
+    - "*":
+        source: NGFS (Phase 3)
+        reference: pending
+        doi: https://doi.org/10.5281/zenodo.7198430
+- GCAM-PR 5.3:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- GEM-E3 v2021:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- GEMINI-E3 7.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- GENeSYS-MOD 3.1:
+    - "*":
+        source: openENTRANCE (Horizon 2020)
+        reference: Hans Auer et al., 2021 (openENTRANCE Deliverable 3.2)
+        doi:
+- ICES-XPS 1.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- IMAGE 3.0:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- IMAGE 3.2:
+    - DIAG*:
+        source: ECEMF (Horizon 2020)
+        reference: pending
+        doi:
+- MESSAGEix-GLOBIOM 1.1:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- MESSAGEix-GLOBIOM 1.1-M-R12:
+    - "*":
+        source: NGFS (Phase 3)
+        reference: pending
+        doi: https://doi.org/10.5281/zenodo.7198430
+- MUSE 1.0:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- NEMESIS 5.1:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: pending
+        doi:
+- OSeMBE v1.0.0:
+    - DIAG*:
+        source: ECEMF (Horizon 2020)
+        reference: pending
+        doi:
+- POLES-JRC ENGAGE:
+    - EN_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
+- PRIMES 2022:
+    - DIAG*:
+        source: ECEMF (Horizon 2020)
+        reference: pending
+        doi:
+- PROMETHEUS 1.2:
+    - DIAG*:
+        source: ECEMF (Horizon 2020)
+        reference: pending
+        doi:
+- PyPSA-Eur-Sec 0.0.2:
+    - "*":
+        source: pending
+        reference: pending
+        doi:
+- PyPSA-Eur-Sec 0.5.0:
+    - "*":
+        source: pending
+        reference: pending
+        doi:
+- PyPSA-Eur-Sec 0.6.0:
+    - "*":
+        source: pending
+        reference: pending
+        doi:
+- RECC 2.4:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND 2.1:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND 3.0:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND-EU 2.0:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND-MAgPIE 2.1-4.2:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND-MAgPIE 2.1-4.3:
+    - scenario:
+        - reference:
+        - doi:
+- REMIND-MAgPIE 3.0-4.4:
+    - scenario:
+        - reference:
+        - doi:
+- Roadmap v1.8:
+    - scenario:
+        - reference:
+        - doi:
+- TIAM-ECN 1.1:
+    - scenario:
+        - reference:
+        - doi:
+- TIAM-Grantham v3.4:
+    - scenario:
+        - reference:
+        - doi:
+- TIMES-Ireland Model v1.0:
+    - scenario:
+        - reference:
+        - doi:
+- WITCH 5.0:
+    - EN_*:
+        source: ENGAGE - Horizon 2020
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
