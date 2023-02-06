@@ -1,3 +1,8 @@
+- AIM/CGE 2.0:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
 - AIM/CGE 2.1:
     - CD-LINKS*:
         source: CD-LINKS (via AR6) (Horizon 2020)
@@ -33,6 +38,11 @@
         source: Paris Reinforce (Horizon 2020)
         reference: pending
         doi:
+- GCAM 4.2:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
 - GCAM 5.3+ NGFS:
     - "*":
         source: NGFS (Phase 3)
@@ -68,11 +78,31 @@
         source: ENGAGE (Horizon 2020)
         reference: Riahi et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01215-2
+- IMAGE 3.0.1:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
+- IMAGE 3.0.1:
+    - CD-LINKS*:
+        source: CD-LINKS (via AR6) (Horizon 2020)
+        reference: McCollum et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0179-z
 - IMAGE 3.2:
     - DIAG*:
         source: ECEMF (Horizon 2020)
         reference: pending
         doi:
+- MESSAGE-GLOBIOM 1.0:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
+- MESSAGEix-GLOBIOM 1.0:
+    - CD-LINKS*:
+        source: CD-LINKS (via AR6) (Horizon 2020)
+        reference: McCollum et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0179-z
 - MESSAGEix-GLOBIOM 1.1:
     - EN_*:
         source: ENGAGE (Horizon 2020)
@@ -132,6 +162,16 @@
     - scenario:
         - reference:
         - doi:
+- REMIND-MAgPIE 1.5:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
+- REMIND-MAgPIE 1.7-3.0:
+    - CD-LINKS*:
+        source: CD-LINKS (via AR6) (Horizon 2020)
+        reference: McCollum et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0179-z
 - REMIND 2.1:
     - scenario:
         - reference:
@@ -172,6 +212,16 @@
     - scenario:
         - reference:
         - doi:
+- WITCH-GLOBIOM 3.1:
+    - SSP*:
+        source: SSP (via AR6)
+        reference: Rogelj et al., 2018, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-018-0091-3
+- WITCH-GLOBIOM 4.4:
+    - CD-LINKS*:
+        source: CD-LINKS (via AR6) (Horizon 2020)
+        reference: McCollum et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0179-z
 - WITCH 5.0:
     - EN_*:
         source: ENGAGE - Horizon 2020
