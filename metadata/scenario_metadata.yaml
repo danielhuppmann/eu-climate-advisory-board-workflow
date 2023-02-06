@@ -113,6 +113,11 @@
         source: NGFS (Phase 3)
         reference: pending
         doi: https://doi.org/10.5281/zenodo.7198430
+- MESSAGEix-GLOBIOM 1.2:
+    - COV_*:
+        source: ENGAGE (Horizon 2020)
+        reference: Kikstra et al., 2021, Nature Energy
+        doi: https://doi.org/10.1038/s41560-021-00904-8
 - MUSE 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
