@@ -133,6 +133,11 @@
         source: ECEMF (Horizon 2020)
         reference: pending
         doi:
+- POLES-JRC:
+    - GECO_*:
+        source: JRC
+        reference: Keramidas et al., 2023, JRC
+        doi: http://doi.org/10.2760/863694
 - POLES-JRC ENGAGE:
     - EN_*:
         source: ENGAGE (Horizon 2020)
