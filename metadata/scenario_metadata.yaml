@@ -46,7 +46,7 @@
 - GCAM 5.3+ NGFS:
     - "*":
         source: NGFS (Phase 3)
-        reference: pending
+        reference: Richters et al., 2022
         doi: https://doi.org/10.5281/zenodo.7198430
 - GCAM-PR 5.3:
     - PR_*:
@@ -83,7 +83,6 @@
         source: SSP (via AR6)
         reference: Rogelj et al., 2018, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-018-0091-3
-- IMAGE 3.0.1:
     - CD-LINKS*:
         source: CD-LINKS (via AR6) (Horizon 2020)
         reference: McCollum et al., 2018, Nature Energy
@@ -111,7 +110,7 @@
 - MESSAGEix-GLOBIOM 1.1-M-R12:
     - "*":
         source: NGFS (Phase 3)
-        reference: pending
+        reference: Richters et al., 2022
         doi: https://doi.org/10.5281/zenodo.7198430
 - MESSAGEix-GLOBIOM 1.2:
     - COV_*:
@@ -203,9 +202,10 @@
         - reference:
         - doi:
 - REMIND-MAgPIE 3.0-4.4:
-    - scenario:
-        - reference:
-        - doi:
+    - "*":
+        source: NGFS (Phase 3)
+        reference: Richters et al., 2022
+        doi: https://doi.org/10.5281/zenodo.7198430
 - Roadmap v1.8:
     - scenario:
         - reference:
