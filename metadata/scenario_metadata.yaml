@@ -207,9 +207,14 @@
         reference: Richters et al., 2022
         doi: https://doi.org/10.5281/zenodo.7198430
 - Roadmap v1.8:
-    - scenario:
-        - reference:
-        - doi:
+    - CO2 Gap Study*:
+        source: pending
+        reference: pending
+        doi: pending
+    - ZEVTC Study*:
+        source: pending
+        reference: pending
+        doi: pending
 - TIAM-ECN 1.1:
     - scenario:
         - reference:
