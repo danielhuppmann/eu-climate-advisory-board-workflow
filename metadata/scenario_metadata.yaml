@@ -30,9 +30,9 @@
         doi:
 - EnergyVille TIMES BE 1.0.0:
     - Net-Zero_*:
-        source: pending
-        reference: pending
-        doi:
+        source: PATHS2050
+        reference: Correa-Laguna et al., 2023, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7614844
 - FORECAST v1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
@@ -219,9 +219,10 @@
         - reference:
         - doi:
 - TIMES-Ireland Model v1.0:
-    - scenario:
-        - reference:
-        - doi:
+    - "*":
+        source: pending
+        reference: Balyk et al., 2022, Geoscientific Model Development
+        doi: https://doi.org/10.5194/gmd-15-4991-2022
 - WITCH-GLOBIOM 3.1:
     - SSP*:
         source: SSP (via AR6)
