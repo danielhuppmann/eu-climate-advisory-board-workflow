@@ -92,6 +92,10 @@
         source: ECEMF (Horizon 2020)
         reference: pending
         doi:
+    - SSP*:
+        source: SSP-2021
+        reference: van Vuuren et al., 2021, Earth ArXiv
+        doi: https://doi.org/10.31223/X5CG92
 - MESSAGE-GLOBIOM 1.0:
     - SSP*:
         source: SSP (via AR6)
