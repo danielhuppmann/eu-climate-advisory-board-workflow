@@ -106,6 +106,14 @@
         source: CD-LINKS (via AR6) (Horizon 2020)
         reference: McCollum et al., 2018, Nature Energy
         doi: https://doi.org/10.1038/s41560-018-0179-z
+    - GEI*:
+        source: GEI (via AR6)
+        reference: Guo et al., 2022, Nature Energy
+        doi: https://doi.org/10.1038/s41560-022-01136-0
+    - LowEnergyDemand:
+        source: LED
+        reference: Grubler et al., 2018, Nature Energy
+        doi: https://doi.org/10.1038/s41560-018-0172-6
 - MESSAGEix-GLOBIOM 1.1:
     - EN_*:
         source: ENGAGE (Horizon 2020)
