@@ -195,25 +195,30 @@
         reference: McCollum et al., 2018, Nature Energy
         doi: https://doi.org/10.1038/s41560-018-0179-z
 - REMIND 2.1:
-    - scenario:
-        - reference:
-        - doi:
+    - "*":
+        source: pending
+        reference: pending
+        doi: pending
 - REMIND 3.0:
-    - scenario:
-        - reference:
-        - doi:
+    - "*":
+        source: pending
+        reference: pending
+        doi: pending
 - REMIND-EU 2.0:
-    - scenario:
-        - reference:
-        - doi:
+    - "*":
+        source: INNOPATHS (Horizon 2020)
+        reference: Rodrigues et al., 2022, Energy
+        doi: https://doi.org/10.1016/j.energy.2021.121908
 - REMIND-MAgPIE 2.1-4.2:
-    - scenario:
-        - reference:
-        - doi:
+    - SusDev*:
+        source: SHAPE (JPI Climate)
+        reference: Soergel et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01098-3
 - REMIND-MAgPIE 2.1-4.3:
-    - scenario:
-        - reference:
-        - doi:
+    - DeepElec*:
+        source: ARIADNE (German Federal Ministry of Education and Research)
+        reference: Luderer et al., 2022, Nature Energy
+        doi: https://doi.org/10.1038/s41560-021-00937-z
 - REMIND-MAgPIE 3.0-4.4:
     - "*":
         source: NGFS (Phase 3)
