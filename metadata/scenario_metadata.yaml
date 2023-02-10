@@ -181,8 +181,9 @@
         doi:
 - RECC 2.4:
     - scenario:
-        - reference:
-        - doi:
+        source: pending
+        reference: Pauliuk et al., 2021, Nature Communications
+        doi: https://doi.org/10.1038/s41467-021-25300-4
 - REMIND-MAgPIE 1.5:
     - SSP*:
         source: SSP (via AR6)
