@@ -242,13 +242,13 @@
         doi: https://doi.org/10.5281/zenodo.7198430
 - Roadmap v1.8:
     - CO2 Gap Study*:
-        source: pending
-        reference: pending
-        doi: pending
+        source: EU CO2 standards to meet Climate Targets
+        reference: Mulholland et al., 2022, icct Working Paper
+        doi: https://theicct.org/wp-content/uploads/2022/03/hdv-co2standards-recs-wp-mar22.pdf
     - ZEVTC Study*:
-        source: pending
-        reference: pending
-        doi: pending
+        source: ZEVTC Accelerating ZEV Transition
+        reference: Sen and Miller, 2022, icct Working Paper
+        doi: https://theicct.org/wp-content/uploads/2022/03/Accelerated-ZEV-transition-wp-final.pdf
 - TIAM-ECN 1.1:
     - EN_*:
         source: ENGAGE - Horizon 2020
