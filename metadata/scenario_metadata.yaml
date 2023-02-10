@@ -196,14 +196,14 @@
         doi: https://doi.org/10.1038/s41560-018-0179-z
 - REMIND 2.1:
     - "*":
-        source: pending
-        reference: pending
-        doi: pending
+        source: ARIADNE (German Federal Ministry of Education and Research)
+        reference: Pietzcker et al., 2021, Ariadne-Hintergrund
+        doi: https://doi.org/10.48485/pik.2021.007
 - REMIND 3.0:
     - "*":
-        source: pending
-        reference: pending
-        doi: pending
+        source: ARIADNE (German Federal Ministry of Education and Research)
+        reference: Luderer et al., 2021, Ariadne-Report
+        doi: https://doi.org/10.48485/pik.2021.006
 - REMIND-EU 2.0:
     - "*":
         source: INNOPATHS (Horizon 2020)
