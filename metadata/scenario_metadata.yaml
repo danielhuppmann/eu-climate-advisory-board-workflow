@@ -46,7 +46,7 @@
 - GCAM 5.3+ NGFS:
     - "*":
         source: NGFS (Phase 3)
-        reference: Richters et al., 2022
+        reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
 - GCAM-PR 5.3:
     - PR_*:
@@ -75,7 +75,7 @@
     - "*":
         source: openENTRANCE (Horizon 2020)
         reference: Auer et al., 2021 (openENTRANCE Deliverable 3.2)
-        doi:
+        doi: https://openentrance.eu/2022/07/06/quantitative-scenarios-for-low-carbon-futures-of-the-european-energy-system-oncountry-region-and-local-level
 - ICES-XPS 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
@@ -118,7 +118,7 @@
         source: GEI (via AR6)
         reference: Guo et al., 2022, Nature Energy
         doi: https://doi.org/10.1038/s41560-022-01136-0
-    - LowEnergyDemand:
+    - LowEnergyDemand*:
         source: LED
         reference: Grubler et al., 2018, Nature Energy
         doi: https://doi.org/10.1038/s41560-018-0172-6
@@ -130,7 +130,7 @@
 - MESSAGEix-GLOBIOM 1.1-M-R12:
     - "*":
         source: NGFS (Phase 3)
-        reference: Richters et al., 2022
+        reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
 - MESSAGEix-GLOBIOM 1.2:
     - COV_*:
@@ -157,7 +157,7 @@
         reference: pending
         doi:
 - POLES-JRC:
-    - GECO_*:
+    - GECO-*:
         source: JRC
         reference: Keramidas et al., 2023, JRC
         doi: http://doi.org/10.2760/863694
@@ -192,7 +192,7 @@
         reference: Pedersen et al., 2022, Joule
         doi: https://doi.org/10.1016/j.joule.2022.06.023
 - RECC 2.4:
-    - scenario:
+    - "*":
         source: pending
         reference: Pauliuk et al., 2021, Nature Communications
         doi: https://doi.org/10.1038/s41467-021-25300-4
@@ -238,7 +238,7 @@
 - REMIND-MAgPIE 3.0-4.4:
     - "*":
         source: NGFS (Phase 3)
-        reference: Richters et al., 2022
+        reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
 - Roadmap v1.8:
     - CO2 Gap Study*:
@@ -250,9 +250,10 @@
         reference: pending
         doi: pending
 - TIAM-ECN 1.1:
-    - scenario:
-        - reference:
-        - doi:
+    - EN_*:
+        source: ENGAGE - Horizon 2020
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
 - TIAM-Grantham v3.4:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
