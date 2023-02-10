@@ -16,8 +16,8 @@
 - ALADIN 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
 - COFFEE 1.1:
     - EN_*:
         source: ENGAGE (Horizon 2020)
@@ -26,8 +26,8 @@
 - E4SMA-EU-TIMES 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
 - EnergyVille TIMES BE 1.0.0:
     - Net-Zero_*:
         source: PATHS2050
@@ -36,8 +36,8 @@
 - FORECAST v1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
 - GCAM 4.2:
     - SSP*:
         source: SSP (via AR6)
@@ -51,8 +51,12 @@
 - GCAM-PR 5.3:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
+    - PR_EU_55NZE_EI:
+        source: Paris Reinforce (Horizon 2020)
+        reference: Van de Ven et al., 2022, ResearchSquare (preprint)
+        doi: https://doi.org/10.21203/rs.3.rs-2319580/v1
 - GEM-E3 v2021:
     - EN_*:
         source: ENGAGE (Horizon 2020)
@@ -61,8 +65,12 @@
 - GEMINI-E3 7.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
+    - PR_EU_55NZE_EI:
+        source: Paris Reinforce (Horizon 2020)
+        reference: Van de Ven et al., 2022, ResearchSquare (preprint)
+        doi: https://doi.org/10.21203/rs.3.rs-2319580/v1
 - GENeSYS-MOD 3.1:
     - "*":
         source: openENTRANCE (Horizon 2020)
@@ -71,8 +79,8 @@
 - ICES-XPS 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
 - IMAGE 3.0:
     - EN_*:
         source: ENGAGE (Horizon 2020)
@@ -132,13 +140,17 @@
 - MUSE 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
+    - PR_EU_55NZE_EI:
+        source: Paris Reinforce (Horizon 2020)
+        reference: Van de Ven et al., 2022, ResearchSquare (preprint)
+        doi: https://doi.org/10.21203/rs.3.rs-2319580/v1
 - NEMESIS 5.1:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
-        reference: pending
-        doi:
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
 - OSeMBE v1.0.0:
     - DIAG*:
         source: ECEMF (Horizon 2020)
@@ -214,6 +226,10 @@
         source: SHAPE (JPI Climate)
         reference: Soergel et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01098-3
+    - EN_*:
+        source: ENGAGE - Horizon 2020
+        reference: Riahi et al., 2021, Nature Climate Change
+        doi: https://doi.org/10.1038/s41558-021-01215-2
 - REMIND-MAgPIE 2.1-4.3:
     - DeepElec*:
         source: ARIADNE (German Federal Ministry of Education and Research)
@@ -238,9 +254,14 @@
         - reference:
         - doi:
 - TIAM-Grantham v3.4:
-    - scenario:
-        - reference:
-        - doi:
+    - PR_*:
+        source: Paris Reinforce (Horizon 2020)
+        reference: Boitier et al., 2022, ZENODO
+        doi: https://doi.org/10.5281/zenodo.7590827
+    - PR_EU_55NZE_EI:
+        source: Paris Reinforce (Horizon 2020)
+        reference: Van de Ven et al., 2022, ResearchSquare (preprint)
+        doi: https://doi.org/10.21203/rs.3.rs-2319580/v1
 - TIMES-Ireland Model v1.0:
     - "*":
         source: pending
