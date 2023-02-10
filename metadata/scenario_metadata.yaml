@@ -166,19 +166,19 @@
         doi:
 - PyPSA-Eur-Sec 0.0.2:
     - "*":
-        source: pending
-        reference: pending
-        doi:
+        source: RE-INVEST (Innovation Fund Denmark)
+        reference: Victoria et al., 2020, Nature Communications
+        doi: https://www.nature.com/articles/s41467-020-20015-4
 - PyPSA-Eur-Sec 0.5.0:
     - "*":
-        source: pending
-        reference: pending
-        doi:
+        source: AURORA (Horizon 2020)
+        reference: Victoria et al., 2022, Joule
+        doi: https://doi.org/10.1016/j.joule.2022.04.016
 - PyPSA-Eur-Sec 0.6.0:
     - "*":
-        source: pending
-        reference: pending
-        doi:
+        source: RE-INVEST (Innovation Fund Denmark)
+        reference: Pedersen et al., 2022, Joule
+        doi: https://doi.org/10.1016/j.joule.2022.06.023
 - RECC 2.4:
     - scenario:
         source: pending
