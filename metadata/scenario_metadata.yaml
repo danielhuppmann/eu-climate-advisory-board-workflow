@@ -211,6 +211,10 @@
         source: ARIADNE (German Federal Ministry of Education and Research)
         reference: Pietzcker et al., 2021, Ariadne-Hintergrund
         doi: https://doi.org/10.48485/pik.2021.007
+    - DIAG*:
+        source: ECEMF (Horizon 2020)
+        reference: pending
+        doi:
 - REMIND 3.0:
     - "*":
         source: ARIADNE (German Federal Ministry of Education and Research)
