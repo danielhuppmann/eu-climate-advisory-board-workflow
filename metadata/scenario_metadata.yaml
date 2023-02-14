@@ -44,7 +44,7 @@
         reference: Rogelj et al., 2018, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-018-0091-3
 - GCAM 5.3+ NGFS:
-    - "NGFS-*":
+    - NGFS-*:
         source: NGFS (Phase 3)
         reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
@@ -128,7 +128,7 @@
         reference: Riahi et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01215-2
 - MESSAGEix-GLOBIOM 1.1-M-R12:
-    - "NGFS-*":
+    - NGFS-*:
         source: NGFS (Phase 3)
         reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
@@ -236,7 +236,7 @@
         reference: Luderer et al., 2022, Nature Energy
         doi: https://doi.org/10.1038/s41560-021-00937-z
 - REMIND-MAgPIE 3.0-4.4:
-    - "NGFS-*":
+    - NGFS-*:
         source: NGFS (Phase 3)
         reference: Richters et al., 2022, ZENODO
         doi: https://doi.org/10.5281/zenodo.7198430
