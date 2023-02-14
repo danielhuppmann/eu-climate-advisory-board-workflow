@@ -227,7 +227,7 @@
         reference: Soergel et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01098-3
     - EN_*:
-        source: ENGAGE - Horizon 2020
+        source: ENGAGE (Horizon 2020)
         reference: Riahi et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01215-2
 - REMIND-MAgPIE 2.1-4.3:
@@ -251,7 +251,7 @@
         doi: https://theicct.org/wp-content/uploads/2022/03/Accelerated-ZEV-transition-wp-final.pdf
 - TIAM-ECN 1.1:
     - EN_*:
-        source: ENGAGE - Horizon 2020
+        source: ENGAGE (Horizon 2020)
         reference: Riahi et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01215-2
 - TIAM-Grantham v3.4:
@@ -265,7 +265,7 @@
         doi: https://doi.org/10.21203/rs.3.rs-2319580/v1
 - TIMES-Ireland Model v1.0:
     - "*":
-        source: pending
+        source: CAPACITY (Department of Environment, Climate and Communications, Ireland)
         reference: Balyk et al., 2022, Geoscientific Model Development
         doi: https://doi.org/10.5194/gmd-15-4991-2022
 - WITCH-GLOBIOM 3.1:
@@ -280,6 +280,6 @@
         doi: https://doi.org/10.1038/s41560-018-0179-z
 - WITCH 5.0:
     - EN_*:
-        source: ENGAGE - Horizon 2020
+        source: ENGAGE (Horizon 2020)
         reference: Riahi et al., 2021, Nature Climate Change
         doi: https://doi.org/10.1038/s41558-021-01215-2
