@@ -26,7 +26,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - E4SMA-EU-TIMES 1.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
@@ -69,7 +69,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - GEMINI-E3 7.0:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
@@ -138,7 +138,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - MESSAGEix-GLOBIOM 1.1-M-R12:
     - NGFS-*:
         source: NGFS (Phase 3)
@@ -181,7 +181,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - PRIMES 2022:
     - DIAG*:
         source: ECEMF (Horizon 2020)
@@ -253,7 +253,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - REMIND-MAgPIE 2.1-4.3:
     - DeepElec*:
         source: ARIADNE (German Federal Ministry of Education and Research)
@@ -281,7 +281,7 @@
     - EN_*COV*:
         source: ENGAGE (Horizon 2020)
         reference: Bertram et al., 2021, Environmental Research Letters
-        doi: https://10.1088/1748-9326/ac09ae
+        doi: https://doi.org/10.1088/1748-9326/ac09ae
 - TIAM-Grantham v3.4:
     - PR_*:
         source: Paris Reinforce (Horizon 2020)
